@@ -1,0 +1,39 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+header {
+    background-color: rgb(73, 121, 73);
+  color: white;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.hero {
+  background: url('https://roobystore.com/cdn/shop/collections/Flag_of_South_Korea_svg.png?v=1729058024&width=1100') no-repeat center center/cover;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: green;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
+
+.product-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: rgb(73, 121, 73);
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 30px;
+}
